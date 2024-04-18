@@ -1,0 +1,12 @@
+.item {
+    padding: 20px;
+    width: 200px;
+    margin: 5px;
+border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .selected {
+    background-color: #bd3f3f;
+  }
+  
